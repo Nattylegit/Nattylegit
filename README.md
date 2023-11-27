@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**Nattylegit/Nattylegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on cloning a stable diffusion webui...
+- 🌱 I’m currently learning all of this its all new thats right novice lol ...
+- 👯 I’m looking to collaborate on anything i am determined to push the git...
+- 🤔 I’m looking for help with my entire life mind you im learning all this on a cell phone and im homless ...
+- 💬 Ask me about anything the complete works of lao tzu ...
+- 📫 How to reach me nattyislegit@gmail.com
+- 😄 Pronouns:
+- ⚡ Fun fact: Spanish water dogs and alpaca seldom grow dred locks
+-->
